@@ -1,11 +1,11 @@
 {
-  "name": "findthat.at",
+  "name": "trillium.is",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:philhawksworth/findthat.at.git",
-  "author": "Phil Hawksworth <phil@netlify.com>",
+  "repository": "git@github.com:trillium/trillium.is.git",
+  "author": "Trillium Smith <trillium@trilliumsmith.com>",
   "license": "MIT",
-  "baseUrl": "https://findthat.at",
+  "baseUrl": "https://trillium.is",
   "bin": {
     "shorten": "cli.js"
   },
