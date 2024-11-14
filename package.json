@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@netlify/functions": "^1.6.0",
-    "netlify-shortener": "^1.0.4",
+    "netlify-shortener": "https://github.com/trillium/netlify-shortener.git",
     "node-fetch": "^3.1.1",
     "qrcode": "^1.4.4"
   }
