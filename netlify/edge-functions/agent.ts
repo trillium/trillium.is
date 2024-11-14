@@ -17,7 +17,7 @@ export default async (request: Request, context: Context) => {
   // Populate our OG page template
   // and return it as HTML
   const ogPage = page({
-    site: "Findthat.at",
+    site: "trillium.is",
     title: `This user-agent is: ${agent}`,
     description: agent,
     original_og: `${rootDomain}/image/checking-the-user-agent.png`

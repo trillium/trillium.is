@@ -1,6 +1,6 @@
 const { builder }   = require("@netlify/functions");
 const QRCode        = require('qrcode');
-const rootURL       = "https://findthat.at";
+const rootURL       = "https://trillium.is";
 const pageTemplate  = require('../../includes/page.js');
 
 import fetch from "node-fetch";
