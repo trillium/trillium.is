@@ -66,14 +66,6 @@ module.exports = (data) => {
     <main>
       <img src='data:image/svg+xml;utf8,${ data.svg }'>
     </main>
-    <footer>
-      <p>
-        <a href="https://findthat.at">findthat.at</a> is a URL shortener made with <a href="https://docs.netlify.com/routing/redirects/?utm_campaign=devex-ph&utm_source=findthat.at&utm_medium=blog&utm_content=redirect-mission">Netlify Redirects</a> by <a href="https://twitter.com/philhawksworth">Phil Hawksworth</a>.  
-      </p>
-      <p>
-        Read how to <a href="https://findthat.at">make your own</a>.
-      </p>
-    </footer>
   </body>
   </html>`;
 
