@@ -1,0 +1,129 @@
+{
+  "redirects": [
+    {
+      "source": "/%F0%9F%8D%90",
+      "destination": "https://cal.com/trillium/pair",
+      "permanent": true
+    },
+    {
+      "source": "/pair",
+      "destination": "https://cal.com/trillium/pair",
+      "permanent": true
+    },
+    {
+      "source": "/a_flower",
+      "destination": "https://www.google.com/search?q=trillium&biw=1238&bih=684&udm=2",
+      "permanent": true
+    },
+    {
+      "source": "/blogrepo",
+      "destination": "https://github.com/trillium/trilliumsmith.com",
+      "permanent": true
+    },
+    {
+      "source": "/starterblog",
+      "destination": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+      "permanent": true
+    },
+    {
+      "source": "/%F0%9F%A6%8B",
+      "destination": "https://bsky.app/profile/trillium.is",
+      "permanent": true
+    },
+    {
+      "source": "/redirects",
+      "destination": "https://github.com/trillium/trillium.is/blob/main/_redirects",
+      "permanent": true
+    },
+    {
+      "source": "/_redirects",
+      "destination": "https://github.com/trillium/trillium.is/blob/main/_redirects",
+      "permanent": true
+    },
+    {
+      "source": "/file",
+      "destination": "https://github.com/trillium/trillium.is/blob/main/_redirects",
+      "permanent": true
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://www.youtube.com/@Trillium_is",
+      "permanent": true
+    },
+    {
+      "source": "/google",
+      "destination": "https://google.com",
+      "permanent": true
+    },
+    {
+      "source": "/shortener",
+      "destination": "https://github.com/trillium/trillium.is",
+      "permanent": true
+    },
+    {
+      "source": "/shorten",
+      "destination": "https://github.com/trillium/trillium.is",
+      "permanent": true
+    },
+    {
+      "source": "/git",
+      "destination": "https://github.com/trillium/",
+      "permanent": true
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/trillium/",
+      "permanent": true
+    },
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/trilliumsmith/",
+      "permanent": true
+    },
+    {
+      "source": "/twitch",
+      "destination": "https://www.twitch.tv/trilliumsmith",
+      "permanent": true
+    },
+    {
+      "source": "/resume",
+      "destination": "https://www.trilliumsmith.com/resume",
+      "permanent": true
+    },
+    {
+      "source": "/bluesky",
+      "destination": "https://bsky.app/profile/trillium.is",
+      "permanent": true
+    },
+    {
+      "source": "/bsky",
+      "destination": "https://bsky.app/profile/trillium.is",
+      "permanent": true
+    },
+    {
+      "source": "/chat",
+      "destination": "https://cal.com/trillium/",
+      "permanent": true
+    },
+    {
+      "source": "/talon_slides",
+      "destination": "https://docs.google.com/presentation/d/1dOXq6FqyZ2r4AV31Ze3XXfFnlNzQTmySiKlIRxjKBOE/edit#slide=id.g3316c124b32_0_0",
+      "permanent": true
+    },
+    {
+      "source": "/scale22x_qr_lockscreen",
+      "destination": "https://www.trilliumsmith.com/quicklinks??utm_source=lockscreen&utm_medium=offline&utm_campaign=scale22x&utm_content=lockscreen",
+      "permanent": true
+    },
+    {
+      "source": "/mbc_02",
+      "destination": "https://www.trilliumsmith.com/?test=foo_02",
+      "permanent": true
+    },
+    {
+      "source": "/dbc_01",
+      "destination": "https://www.trilliumsmith.com/quicklinks??utm_source=business_card&utm_medium=offline&utm_campaign=scale22x&utm_content=software_developer_card_dc01",
+      "permanent": true
+    }
+  ]
+}
