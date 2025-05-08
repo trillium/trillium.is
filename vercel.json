@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://www.trilliumsmith.com/",
+      "statusCode": 302
+    },
+    {
       "source": "/%F0%9F%8D%90",
       "destination": "https://cal.com/trillium/pair",
       "permanent": true
