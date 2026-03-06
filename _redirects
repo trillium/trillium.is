@@ -36,16 +36,16 @@
 
 /mch_01                             https://mch01.trilliummassage.la/
 
-/afs_01                             https://www.trilliumsmith.com/?test=foo_02
+
 
 # Printed 
-/print_scale_sign_1                 https://www.trilliummassage.la/recharge?duration=15&utm_source=a_frame_sign&utm_medium=print&utm_campaign=recharge_white_you_charge
+/print_scale_sign_1                 https://www.trilliummassage.la/scale23x
 
-
-# Unkonwn uses
-/afs_02                             https://www.trilliumsmith.com/?test=foo_02
-/afs_03                             https://www.trilliumsmith.com/?test=foo_02
-/afs_04                             https://www.trilliumsmith.com/?test=foo_02
+# Unkonwn uses -- A FRAME SIGN
+/afs_01                             https://www.trilliummassage.la/scale23x
+/afs_02                             https://www.trilliummassage.la/scale23x
+/afs_03                             https://www.trilliummassage.la/scale23x
+/afs_04                             https://www.trilliummassage.la/scale23x
 
 # Developer Business Card
 /dbc_01                             https://www.trilliumsmith.com/quicklinks??utm_source=business_card&utm_medium=offline&utm_campaign=sev0_2025&utm_content=software_developer_card_dc01
